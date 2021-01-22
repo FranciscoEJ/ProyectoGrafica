@@ -1,0 +1,14 @@
+﻿  Main_prac11.cpp
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(463,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(821,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(822,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(826,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(827,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(829,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\ComputacionGrafica\Main_prac11.cpp(830,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  ComputacionGrafica.vcxproj -> C:\Users\Gil Alexder EJ\Documents\EJFJ\ComputacionGrafica - copia\Debug\ComputacionGrafica.exe
