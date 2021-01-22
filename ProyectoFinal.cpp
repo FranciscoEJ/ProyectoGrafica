@@ -241,7 +241,6 @@ int main()
 	Model ModelArbolGnomo((char*)"Models/arbol2/arbol2.obj");
 	Model ModelPalmerita((char*)"Models/palmera1/palmera1.obj");
 	Model ModelLampara((char*)"Models/lampara/lampara.obj");
-	Model ModelShrek((char*)"Models/Shrek/Shrek.obj");
 	Model ModelArbolSaul((char*)"Models/arbol3/arbol3.obj");
 	Model ModelSauce((char*)"Models/arbol4/arbol4.obj");
 	Model ModelPlanta((char*)"Models/planta/planta.obj");
@@ -1501,11 +1500,11 @@ void DoMovement()
 	}
 	if (keys[GLFW_KEY_M])
 	{
-		lux += 1.0f;
+		lux += 0.3f;
 	}
 	if (keys[GLFW_KEY_N])
 	{
-		lux -= 1.0f;
+		lux -= 0.3f;
 	}
 
 
